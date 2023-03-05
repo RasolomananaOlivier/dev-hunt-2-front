@@ -1,0 +1,10 @@
+.rti--container {
+  background: transparent !important;
+}
+
+.rti--input {
+  background-color: transparent !important;
+  border: none !important;
+  width: 100%;
+  color: black !important;
+}
